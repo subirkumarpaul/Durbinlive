@@ -13,6 +13,8 @@ https://live.durbinlive.com/hls/channeli.m3u8
 https://live.durbinlive.com/masranga.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus TV HD
 https://live.durbinlive.com/hls/nexus.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony Aath
+http://live.flixhub.net/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Jalsha HD
 https://live.durbinlive.com/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Bangla HD
@@ -21,6 +23,8 @@ https://live.durbinlive.com/hls/zeebanglahd.m3u8
 https://live.durbinlive.com/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sun Bangla
 https://live.durbinlive.com/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Zee Bangla Cinema
+https://live.durbinlive.com/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Colors Bangla Cinema
 https://live.durbinlive.com/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Jalsha Movies HD
@@ -41,6 +45,8 @@ https://live.durbinlive.com/hls/sonyten1.m3u8
 https://live.durbinlive.com/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", SONY Ten 3
 https://live.durbinlive.com/hls/sonyten3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Eurosports
+https://live.durbinlive.com/hls/euro.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
 https://live.durbinlive.com/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
