@@ -14,7 +14,7 @@ https://live.durbinlive.com/masranga.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus TV HD
 https://live.durbinlive.com/hls/nexus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony Aath
-http://live.flixhub.net/hls/Sony_Aath.m3u8
+https://live.durbinlive.com/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Jalsha HD
 https://live.durbinlive.com/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Bangla HD
@@ -51,6 +51,8 @@ https://live.durbinlive.com/hls/euro.m3u8
 https://live.durbinlive.com/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
 https://live.durbinlive.com/hls/ngohd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo Wild
+https://live.durbinlive.com/hls/wild.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Travel XP HD
 https://live.durbinlive.com/hls/travelxp.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",SONY BBC Earth
