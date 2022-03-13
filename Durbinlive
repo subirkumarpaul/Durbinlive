@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",T-Sports
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",T Sports
 https://live.durbinlive.com/hls/t-sports.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Gtv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Gazi TV
 https://live.durbinlive.com/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Somoy tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Somoy TV
 https://live.durbinlive.com//hls/somoy.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Independent tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Independent TV
 https://live.durbinlive.com/hls/indepen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Cannel I
 https://live.durbinlive.com/hls/channeli.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Masranga tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Masranga TV
 https://live.durbinlive.com/masranga.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nexus TV HD
 https://live.durbinlive.com/hls/nexus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Jalsha HD
 https://live.durbinlive.com/hls/starjalsha.m3u8
@@ -25,29 +25,29 @@ https://live.durbinlive.com/hls/sunbangla.m3u8
 https://live.durbinlive.com/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Jalsha Movies HD
 https://live.durbinlive.com/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports 1
 https://live.durbinlive.com/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports 2
 https://live.durbinlive.com/hls/starsports2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select 1
 https://live.durbinlive.com/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select 2
 https://live.durbinlive.com/hls/select2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Sony Six
 https://live.durbinlive.com/hls/sonysix.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", SONY Ten 1
 https://live.durbinlive.com/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", SONY Ten 2
 https://live.durbinlive.com/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Ten-3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", SONY Ten 3
 https://live.durbinlive.com/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
 https://live.durbinlive.com/hls/discovery.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
 https://live.durbinlive.com/hls/ngohd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Travel Xp
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Travel XP HD
 https://live.durbinlive.com/hls/travelxp.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",BBC Earth
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",SONY BBC Earth
 https://live.durbinlive.com/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Animal Planet
 https://live.durbinlive.com/hls/animalplanent.m3u8
@@ -71,11 +71,11 @@ https://live.durbinlive.com/hls/utvaction.m3u8
 https://live.durbinlive.com/hls/zeecinemahd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Gold HD
 https://live.durbinlive.com/hls/stargold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Max HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",SONY Max HD
 https://live.durbinlive.com//hls/sony-maxhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Cineplex
 https://live.durbinlive.com/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony tv
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony TV
 https://live.durbinlive.com/hls/sonyen.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",&Pictures
 https://live.durbinlive.com/hls/andpictures.m3u8
