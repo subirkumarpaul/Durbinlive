@@ -111,3 +111,7 @@ http://103.167.190.250/hls/mn+.m3u8
 http://103.167.190.250/hls/zoom.m3u8
 #EXTINF:-1,Bindass
 http://103.167.190.250/hls/bindass.m3u8
+#EXTINF:-1,Aljazeera
+http://103.167.190.250/hls/aljazeera.m3u8
+#EXTINF:-1,BBC World
+http://103.167.190.250/hls/bbcworld.m3u8
