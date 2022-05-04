@@ -29,6 +29,20 @@ http://103.167.190.250/hls/zee-bangla-cinema.m3u8
 http://103.167.190.250/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Jalsha Movies HD
 http://103.167.190.250/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony TV
+http://103.167.190.250/hls/sonyen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",UTV Action
+http://103.167.190.250/hls/utvaction.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Cinema HD
+http://103.167.190.250/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Gold HD
+http://103.167.190.250/hls/stargold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",SONY Max HD
+http://103.167.190.250/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Cineplex
+http://103.167.190.250/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",&Pictures
+http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports 1
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports 2
@@ -81,20 +95,6 @@ http://103.167.190.250/hls/sonypixhd.m3u8
 http://103.167.190.250/hls/movies-now.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",MN+
 http://103.167.190.250/hls/mn+.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",UTV Action
-http://103.167.190.250/hls/utvaction.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zee Cinema HD
-http://103.167.190.250/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Star Gold HD
-http://103.167.190.250/hls/stargold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",SONY Max HD
-http://103.167.190.250/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Colors Cineplex
-http://103.167.190.250/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Sony TV
-http://103.167.190.250/hls/sonyen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",&Pictures
-http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
 http://103.167.190.250/hls/zoom.m3u8
 #EXTINF:-1,Bindass
