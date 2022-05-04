@@ -61,6 +61,8 @@ http://103.167.190.250/hls/travelxp.m3u8
 http://103.167.190.250/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Animal Planet
 http://103.167.190.250/hls/animalplanent.m3u8
+#EXTINF:-1,Discovery Kids
+http://103.55.144.46/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nick
 http://103.167.190.250/hls/nick.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",CN
