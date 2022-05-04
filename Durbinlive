@@ -109,6 +109,8 @@ http://103.167.190.2506/hls/mnx-hd.m3u8
 http://103.167.190.250/hls/star-worldhd.m3u8
 #EXTINF:-1,AXN
 http://103.167.190.250/hls/axn.m3u8
+#EXTINF:-1,TLC
+http://103.167.190.250/hls/tlc.m3u8
 #EXTINF:-1,9xm
 http://103.167.190.250/hls/9xm.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
