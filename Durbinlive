@@ -33,6 +33,8 @@ http://103.167.190.250/hls/jalshamovies.m3u8
 http://103.167.190.250/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports 2
 http://103.167.190.250/hls/starsports2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports 3
+http://103.167.190.250/hls/starsports3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select 1
 http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Star Sports Select 2
