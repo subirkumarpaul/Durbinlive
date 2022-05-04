@@ -79,6 +79,8 @@ http://103.167.190.250/hls/ten.m3u8
 http://103.167.190.250/hls/ptv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery HD
 http://103.167.190.250/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Discovery Science 
+http://103.167.190.250/hls/dis-science.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo HD
 http://103.167.190.250/hls/ngohd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**", Net Geo Wild
