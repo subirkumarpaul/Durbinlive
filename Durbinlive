@@ -62,7 +62,9 @@ http://103.167.190.250/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Animal Planet
 http://103.167.190.250/hls/animalplanent.m3u8
 #EXTINF:-1,Star World
-/hls/star-worldhd.m3u8
+http://103.167.190.250/hls/star-worldhd.m3u8
+#EXTINF:-1,AXN
+http://103.167.190.2506/hls/axn.m3u8
 #EXTINF:-1,Discovery Kids
 http://103.167.190.250/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Nick
@@ -95,3 +97,5 @@ http://103.167.190.250/hls/sonyen.m3u8
 http://103.167.190.250/hls/andpictures.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Internet_TV**",Zoom
 http://103.167.190.250/hls/zoom.m3u8
+#EXTINF:-1,Bindass
+http://103.167.190.250/hls/bindass.m3u8
