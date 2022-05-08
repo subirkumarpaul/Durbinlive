@@ -127,3 +127,93 @@ http://103.167.190.250/hls/bindass.m3u8
 http://103.167.190.250/hls/aljazeera.m3u8
 #EXTINF:-1,BBC World
 http://103.167.190.250/hls/bbcworld.m3u8
+
+
+#EXTINF:-1,Gazi TV(amrbd)
+http://103.136.200.246:8082/Gazi-Tv/index.m3u8
+#EXTINF:-1,ATN Bangla(amrbd)
+http://103.136.200.246:8082/ATN-Bangla/index.m3u8
+#EXTINF:-1,Somoy TV(amrbd)
+http://103.136.200.246:8082/Somoy-TV/index.m3u8
+#EXTINF:-1,Ekahtor TV(amrbd)
+http://103.136.200.246:8082/Ekattor-tv/index.m3u8
+#EXTINF:-1,ATN News(amrbd)
+http://103.136.200.246:8082/Atn-News/index.m3u8
+#EXTINF:-1,Independent TV(amrbd)
+http://103.136.200.246:8082/Independent-Tv/index.m3u8
+#EXTINF:-1,Channel24(amrbd)
+http://103.136.200.246:8082/Channel24/index.m3u8
+#EXTINF:-1,News24(amrbd)
+http://103.136.200.246:8082/News24bd/index.m3u8
+#EXTINF:-1,DBC News(amrbd)
+http://103.136.200.246:8082/DBC-NEWS/index.m3u8
+#EXTINF:-1,Channel I(amrbd)
+http://103.136.200.246:8082/Channel-i/index.m3u8
+#EXTINF:-1,Ekushay TV(amrbd)
+http://103.136.200.246:8082/Ekushey-TV/index.m3u8
+#EXTINF:-1,NTV(amrbd)
+http://103.136.200.246:8082/Ntv/index.m3u8
+#EXTINF:-1,RTV(amrbd)
+http://103.136.200.246:8082/RTV/index.m3u8
+#EXTINF:-1,SATV(amrbd)
+http://103.136.200.246:8082/SATV/index.m3u8
+#EXTINF:-1,Mohona TV(amrbd)
+http://103.136.200.246:8082/MohonaTV/index.m3u8
+#EXTINF:-1,My TV(amrbd)
+http://103.136.200.246:8082/MyTV/index.m3u8
+#EXTINF:-1,Anando TV(amrbd)
+http://103.136.200.246:8082/anandotv/index.m3u8
+#EXTINF:-1,Bangla Vision(amrbd)
+http://103.136.200.246:8082/BanglaVision/index.m3u8
+#EXTINF:-1,Nagorik TV(amrbd)
+http://103.136.200.246:8082/Nagorik-TV/index.m3u8
+#EXTINF:-1,Bijoy TV(amrbd)
+http://103.136.200.246:8082/BijoyTv/index.m3u8
+#EXTINF:-1,Boishakhi TV(amrbd)
+http://103.136.200.246:8082/Boishakhi/index.m3u8
+#EXTINF:-1,Gaan Bangla(amrbd)
+http://103.136.200.246:8082/GaanBangla/index.m3u8
+#EXTINF:-1,Sony Aath(amrbd)
+http://103.136.200.246:8082/Sonyaath/index.m3u8
+#EXTINF:-1,Star Jalsha(amrbd)
+http://103.136.200.246:8082/Star-Jalsha/index.m3u8
+#EXTINF:-1,Star Jalsha HD(bd)
+http://89.187.162.109/STARJALSHA/mono.m3u8
+#EXTINF:-1,Zee Bangla HD(amrbd)
+http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
+#EXTINF:-1,Colors Bangla(amrbd)
+http://103.136.200.246:8082/colorsbangla/index.m3u8
+#EXTINF:-1,Sun Bangla(bd)
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
+#EXTINF:-1,Jalsha Movies HD(amrbd)
+http://103.136.200.246:8082/Jalshamovies/index.m3u8
+#EXTINF:-1,Sony TV(amrbd)
+http://103.136.200.246:8082/SonyTVHD/index.m3u8
+#EXTINF:-1,Sony TV(bd)
+http://89.187.162.109/SONYHD/mono.m3u8
+#EXTINF:-1,Sony Sab(amrbd)
+http://103.136.200.246:8082/Sony_Sab/index.m3u8
+#EXTINF:-1,Colors(amrbd)
+http://103.136.200.246:8082/colorsindia/index.m3u8
+#EXTINF:-1,Star Barath(bd)
+http://89.187.162.109/STARBHARATHD/mono.m3u8
+#EXTINF:-1,And TV(bd)
+http://89.187.162.109/ANDTVHD/mono.m3u8
+#EXTINF:-1,Zee Cinema HD(amrbd)
+http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+#EXTINF:-1,Star Gold(amrbd)
+http://103.136.200.246:8082/StarGold/index.m3u8
+#EXTINF:-1,SONY Max(amrbd)
+http://103.136.200.246:8082/Sony-Max/index.m3u8
+#EXTINF:-1,Amrbd
+http://103.136.200.246:8082/bflix/index.m3u8
+#EXTINF:-1,Sony Six(amarbd)
+http://103.136.200.246:8082/SonySix/index.m3u8
+#EXTINF:-1,SONY Ten 1(amrbd)
+http://103.136.200.246:8082/Ten1/index.m3u8
+#EXTINF:-1,SONY Ten 2(amrbd)
+http://103.136.200.246:8082/Ten2/index.m3u8
+#EXTINF:-1,SONY Ten 3(amrbd)
+http://103.136.200.246:8082/Ten3/index.m3u8
+#EXTINF:-1,Sony Pix(amrbd)
+http://103.136.200.246:8082/SonyPix/index.m3u8
