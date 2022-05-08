@@ -217,3 +217,54 @@ http://103.136.200.246:8082/Ten2/index.m3u8
 http://103.136.200.246:8082/Ten3/index.m3u8
 #EXTINF:-1,Sony Pix(amrbd)
 http://103.136.200.246:8082/SonyPix/index.m3u8
+
+#EXTINF:-1,BDIPTV 1
+http://bdiptv.net:8082/BEIN-SPORTS-5-HD/index.m3u8
+#EXTINF:-1,BDIPTV 2
+http://bdiptv.net:8082/BEIN-SPORTS-4-HD-AR/index.m3u8
+#EXTINF:-1,BDIPTV 3
+http://bdiptv.net:8082/BEIN-SPORTS-3-HD/index.m3u8
+#EXTINF:-1,BDIPTV 4
+http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
+#EXTINF:-1,BDIPTV 5
+http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
+#EXTINF:-1,BDIPTV 6
+http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
+#EXTINF:-1,BDIPTV 7
+http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
+#EXTINF:-1,BDIPTV 8
+http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
+#EXTINF:-1,BDIPTV 9
+http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
+#EXTINF:-1,BDIPTV 10
+http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8
+#EXTINF:-1,BDIPTV 11
+http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
+#EXTINF:-1,BDIPTV 12
+http://bdiptv.net:8082/SONY-TEN-3-HD/index.m3u8
+#EXTINF:-1,BDIPTV 13
+http://bdiptv.net:8082/ESPN/index.m3u8
+#EXTINF:-1,BDIPTV 14
+http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
+#EXTINF:-1,BDIPTV 15
+http://bdiptv.net:8082/ASPORTS/index.m3u8
+#EXTINF:-1,BDIPTV 16
+http://bdiptv.net:8082/GEO-SUPER/index.m3u8
+#EXTINF:-1,BDIPTV 17
+http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
+#EXTINF:-1,BDIPTV 18
+http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
+#EXTINF:-1,BDIPTV 19
+http://bdiptv.net:8082/bdip1/index.m3u8
+#EXTINF:-1,BDIPTV 20
+http://bdiptv.net:8082/tsp/index.m3u8
+#EXTINF:-1,BDIPTV 21
+http://bdiptv.net:8082/gtv/index.m3u8
+#EXTINF:-1,BDIPTV 22
+http://bdiptv.net:8082/tv13/index.m3u8
+#EXTINF:-1,BDIPTV 23
+http://bdiptv.net:8082/tv14/index.m3u8
+#EXTINF:-1,BDIPTV 24
+http://bdiptv.net:8082/Adsports1/index.m3u8
+#EXTINF:-1,BDIPTV 25
+http://bdiptv.net:8082/ATN-Bangla/index.m3u8
