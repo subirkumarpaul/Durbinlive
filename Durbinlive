@@ -127,8 +127,6 @@ http://103.167.190.250/hls/bindass.m3u8
 http://103.167.190.250/hls/aljazeera.m3u8
 #EXTINF:-1,BBC World
 http://103.167.190.250/hls/bbcworld.m3u8
-
-
 #EXTINF:-1,Gazi TV(amrbd)
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1,ATN Bangla(amrbd)
@@ -217,7 +215,6 @@ http://103.136.200.246:8082/Ten2/index.m3u8
 http://103.136.200.246:8082/Ten3/index.m3u8
 #EXTINF:-1,Sony Pix(amrbd)
 http://103.136.200.246:8082/SonyPix/index.m3u8
-
 #EXTINF:-1,BDIPTV 1
 http://bdiptv.net:8082/BEIN-SPORTS-5-HD/index.m3u8
 #EXTINF:-1,BDIPTV 2
