@@ -265,7 +265,15 @@ http://bdiptv.net:8082/tv14/index.m3u8
 http://bdiptv.net:8082/Adsports1/index.m3u8
 #EXTINF:-1 tvg-logo="",BDIPTV 25
 http://bdiptv.net:8082/ATN-Bangla/index.m3u8
-#EXTINF:-1 tvg-logo="",9X Jalwa
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",9X Jalwa
 http://tvserver.aliflailabd.com:8989/9X-JALWA/index.m3u8
-#EXTINF:-1 tvg-logo="",Bein Sports 1
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Bein Sports 1
 http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",9XM
+http://tvserver.aliflailabd.com:8989/9xm/tracks-8,1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Al Jazeera
+http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
+
+
+
+
