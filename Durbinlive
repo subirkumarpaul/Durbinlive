@@ -269,9 +269,9 @@ http://bdiptv.net:8082/ATN-Bangla/index.m3u8
 http://tvserver.aliflailabd.com:8989/9X-JALWA/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Bein Sports 1
 http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",9XM
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Aliflailabd",9XM
 http://tvserver.aliflailabd.com:8989/9xm/tracks-8,1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Al Jazeera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Aliflailabd",Al Jazeera
 http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
 
 
