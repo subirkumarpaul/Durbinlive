@@ -273,7 +273,15 @@ http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
 http://tvserver.aliflailabd.com:8989/9xm/tracks-8,1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Aliflailabd",Al Jazeera
 http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
-
-
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",And Flix
+http://tvserver.aliflailabd.com:8989/and-flix/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Asian TV
+http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",ATN Bangla
+http://tvserver.aliflailabd.com:8989/atn-bangla/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",ATN Islamic TV
+http://tvserver.aliflailabd.com:8989/atnislamictv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",ATN News
+http://tvserver.aliflailabd.com:8989/atn-news/index.m3u8
 
 
